@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from utils\""
-  },
-  "dependencies": {
   }
 }

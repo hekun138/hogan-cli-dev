@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@hogan-cli-dev/utils": "^1.0.0"
+    "@hogan-cli-dev/utils": "^1.0.1"
   }
 }
