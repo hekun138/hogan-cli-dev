@@ -1,6 +1,6 @@
 {
   "name": "@hogan-cli-dev/utils",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "hogan-cli-dev utils",
   "author": "Hogan <418730859@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from utils\""
   },
-  "gitHead": "49995c9915cbbd0e45bb1b35e07d2e2e6ac43f4d"
+  "gitHead": "593a76370a33e1b634cfff5659c920c818cd8e2c"
 }
