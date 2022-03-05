@@ -1,6 +1,6 @@
 {
   "name": "@hogan-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Hogan <418730859@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@hogan-cli-dev/utils": "^1.0.3"
+    "@hogan-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "49995c9915cbbd0e45bb1b35e07d2e2e6ac43f4d"
 }
